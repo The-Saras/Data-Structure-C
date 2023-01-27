@@ -54,10 +54,3 @@ int main()
     travers(head);
 }
 
-echo "# Data-Structure-C" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/The-Saras/Data-Structure-C.git
-git push -u origin main
